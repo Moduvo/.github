@@ -4,9 +4,11 @@ Moduvo is a collection of open-source tools for Roblox executor development. We'
 
 ## What we're working on
 
-- **moduvo-ui** – Tauri-based executor UI
+- **moduvo-ui** – Tauri-based executor UI  
 - **moduvo-backend** – Lightweight auth system with basic key validation  
-- **moduvo-website** – Public site for downloads, login, and more
+- **moduvo-website** – Public site for downloads, login, and more  
+- **moduvo-functions** – Executor functions
+- **moduvo-security** – Shared logic for HWID checks, token validation, and encryption
 
 Our goal is to make an executor setup that’s fast, good-looking, and easy to build on.
 
